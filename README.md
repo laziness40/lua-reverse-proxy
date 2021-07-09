@@ -1,5 +1,5 @@
 # lua-reverse-proxy
-LuaでFQDNをもとに動的にホストとポートを振り分けするリバースプロキシ実装のサンプル
+LuaでFQDNをもとに動的にホストとポートを振り分けするリバースプロキシ実装のサンプル。
 OpenRestyでの動作を前提にしています。
 
 # Module used
